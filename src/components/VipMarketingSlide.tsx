@@ -8,7 +8,7 @@ export const VipMarketingSlide = () => {
     const t = useTranslations("HomePage.vip_marketing");
 
     const cards = [
-        { key: "smm", icon: Megaphone, color: "text-pink-600", bg: "bg-pink-50", border: "border-pink-100" },
+
         { key: "server", icon: Server, color: "text-blue-600", bg: "bg-blue-50", border: "border-blue-100" },
         { key: "analytics", icon: BarChart2, color: "text-orange-600", bg: "bg-orange-50", border: "border-orange-100" },
     ];

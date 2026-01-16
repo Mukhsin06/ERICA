@@ -176,15 +176,6 @@
             "Title": "Marketing va Texnik Yordam",
             "Subtitle": "Boshidan oxirigacha to'liq qo'llab-quvvatlash",
             "Cards": {
-                "smm": {
-                    "Title": "SMM Start paketi",
-                    "Items": [
-                        "Instagram start kontent",
-                        "Telegram kanal boshlash",
-                        "Dastlabki postlar dizayni",
-                        "Bio va kontent rejasi"
-                    ]
-                },
                 "server": {
                     "Title": "Server, Backup, Monitoring",
                     "Items": [
