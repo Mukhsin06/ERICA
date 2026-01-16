@@ -86,24 +86,24 @@ export const SlidesContainer = () => {
             </div>
 
             {/* Floating Pagination Bar */}
-            <div className="absolute bottom-8 left-1/2 transform -translate-x-1/2 z-50">
-                <div className="bg-white/90 backdrop-blur-md shadow-[0_8px_30px_rgb(0,0,0,0.08)] border border-white/50 px-6 py-4 rounded-full flex items-center gap-6 transition-all hover:scale-[1.02] hover:shadow-[0_8px_30px_rgb(0,0,0,0.12)]">
+            <div className="absolute bottom-6 left-1/2 transform -translate-x-1/2 z-50">
+                <div className="bg-white/80 backdrop-blur-md shadow-[0_8px_30px_rgb(0,0,0,0.12)] border border-gray-200 px-6 py-3 rounded-full flex items-center gap-4 transition-all hover:scale-[1.02] hover:shadow-[0_8px_30px_rgb(0,0,0,0.16)]">
 
                     <button
                         onClick={prevSlide}
-                        className="p-2 rounded-full hover:bg-gray-100/80 text-gray-400 hover:text-[#2e7d32] transition-colors"
+                        className="p-1.5 rounded-full hover:bg-gray-100/80 text-gray-500 hover:text-[#2e7d32] transition-colors"
                     >
                         <ChevronLeft className="w-5 h-5" />
                     </button>
 
-                    <div className="flex items-center gap-3">
+                    <div className="flex items-center gap-2.5">
                         {slides.map((_, index) => (
                             <div
                                 key={index}
                                 onClick={() => setCurrentSlide(index)}
                                 className={`h-2.5 rounded-full cursor-pointer transition-all duration-300 ${currentSlide === index
-                                    ? "w-10 bg-[#2e7d32] shadow-sm"
-                                    : "w-2.5 bg-gray-200 hover:bg-gray-300"
+                                    ? "w-8 bg-[#2e7d32] shadow-sm"
+                                    : "w-2.5 bg-gray-300 hover:bg-gray-400"
                                     }`}
                             />
                         ))}
@@ -111,11 +111,10 @@ export const SlidesContainer = () => {
 
                     <button
                         onClick={nextSlide}
-                        className="p-2 rounded-full hover:bg-gray-100/80 text-gray-400 hover:text-[#2e7d32] transition-colors"
+                        className="p-1.5 rounded-full hover:bg-gray-100/80 text-gray-500 hover:text-[#2e7d32] transition-colors"
                     >
                         <ChevronRight className="w-5 h-5" />
                     </button>
-
                 </div>
             </div>
 
