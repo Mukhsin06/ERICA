@@ -51,7 +51,7 @@ export const PremiumPackageSlide = () => {
                                     <Star className="w-3 h-3" /> Imkoniyatlar
                                 </h4>
                                 <div className="space-y-1.5">
-                                    {[0, 1, 2, 3, 4, 5, 6].map((i) => (
+                                    {[0, 1, 2, 3, 4, 5, 6, 7, 8].map((i) => (
                                         <motion.div
                                             key={i}
                                             initial={{ opacity: 0, x: -10 }}
