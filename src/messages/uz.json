@@ -170,17 +170,14 @@
                     "Kompaniya haqida to'liq ma'lumot"
                 ]
             },
-            "VoiceBot": {
-                "Title": "AI Ovozli Yordamchi",
-                "Questions": [
-                    "Suhbatni boshlaymizmi?",
-                    "Albatta! Men tayyorman."
-                ],
+            "JobXSummary": {
+                "Title": "JobX — AI HR Tizimi",
                 "Features": [
-                    "Tabiiy ovozda muloqot",
-                    "Ko'p tilli qo'llab-quvvatlash",
-                    "Buyurtmalarni qabul qilish",
-                    "Mijozlarni saralash"
+                    "Avtomatik rezyume yaratish",
+                    "Video va Ovozli intervyu",
+                    "Nomzodlarni saralash (HR)",
+                    "6 oylik bepul obuna",
+                    "Sayt uchun maxsus vidjet"
                 ]
             }
         },
