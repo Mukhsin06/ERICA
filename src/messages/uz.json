@@ -135,37 +135,27 @@
                 "start": {
                     "Badge": "Web-sayt",
                     "Title": "START",
-                    "Price": "$4,000",
+                    "Price": "$1,500",
                     "Description": "Tez ishga tushish uchun Web-sayt. Biznesni tez boshlamoqchi bo‘lganlar uchun."
                 },
                 "premium": {
                     "Badge": "Tavsiya etiladi",
                     "Title": "PREMIUM",
-                    "Price": "$7,000",
+                    "Price": "$2,000",
                     "Description": "Daromad va SEO uchun optimal. Biznesini o‘stirmoqchi bo'lganlar uchun."
                 },
                 "vip": {
                     "Badge": "All-Inclusive",
                     "Title": "VIP",
-                    "Price": "$10,000",
+                    "Price": "$3,000",
                     "Description": "To‘liq biznes, marketing va AI. Bozorda lider bo‘lishni xohlaydiganlar uchun."
                 }
             }
         },
         "vip_branding": {
-            "Badge": "TO'LIQ BRANDING",
-            "Title": "Professional Brending va AI",
-            "Subtitle": "Brend identikligi va sun'iy intellekt kuchi",
-            "Branding": {
-                "Title": "To'liq Branding Paketi",
-                "Items": [
-                    "Logo (Bir nechta variant)",
-                    "Ranglar palitrasi (Corporate Colors)",
-                    "Shriftlar (Typography)",
-                    "UI Dizayn uslubi",
-                    "Mini Brandbook"
-                ]
-            },
+            "Badge": "SUN'IY INTELLEKT",
+            "Title": "AI Yordamchi",
+            "Subtitle": "Biznes jarayonlarini avtomatlashtirish",
             "AiBot": {
                 "Title": "AI Chatbot & Widget",
                 "Questions": [
@@ -204,13 +194,13 @@
                         "Texnik nosozliklarni tuzatish"
                     ]
                 },
-                "venture": {
-                    "Title": "Venture Advice",
+                "analytics": {
+                    "Title": "Google Analytics & Metrica",
                     "Items": [
-                        "Monetizatsiya strategiyasi",
-                        "Scale (Kengaytirish) rejasi",
-                        "Investorlar uchun prezentatsiya",
-                        "Moliyaviy model"
+                        "Tashriflar statistikasi",
+                        "Mijozlar harakati (Behavior)",
+                        "Konversiya tahlili",
+                        "Real vaqt rejimi"
                     ]
                 }
             },
@@ -246,7 +236,7 @@
         "start_package": {
             "Badge": "Web-sayt",
             "Title": "START",
-            "Price": "$4,000",
+            "Price": "$1,500",
             "Subtitle": "Tez ishga tushish uchun Web-sayt",
             "Description": "START paketi — biznesni tez boshlamoqchi bo‘lganlar uchun. G‘oya bor, lekin bozorga tez chiqish kerak. Bu paketda biz eng kerakli funksiyalarni beramiz.",
             "Features": {
@@ -314,12 +304,12 @@
                 ],
                 "Note": "START — bu boshlash uchun, kengaytirish uchun emas"
             },
-            "FooterButton": "START — bozorga tez chiqish uchun eng to'g'ri tanlov"
+            "FooterButton": "START — Biznesingiz uchun professional boshlanish"
         },
         "premium_package": {
             "Badge": "Tavsiya etiladi",
             "Title": "PREMIUM",
-            "Price": "$7,000",
+            "Price": "$2,000",
             "Subtitle": "Daromad va SEO uchun optimal",
             "Description": "PREMIUM — biznesini o‘stirmoqchi, internet orqali daromad olishni xohlaydiganlar uchun. START paketidagi hamma narsa + qo'shimcha imkoniyatlar.",
             "Features": [
@@ -329,7 +319,8 @@
                 "Yangiliklar va blog",
                 "SEO optimizatsiya (Google uchun)",
                 "Tezlik va xavfsizlik sozlamalari",
-                "Mijozlardan so‘rov olish formasi"
+                "Mijozlardan so‘rov olish formasi",
+                "Jobx ga dostup 6 oylik"
             ],
             "Advantages": {
                 "Title": "PREMIUM nimasi bilan kuchli?",
@@ -343,7 +334,7 @@
         },
         "vip_package": {
             "Title": "VIP TARIF",
-            "Price": "$10,000",
+            "Price": "$3,000",
             "Subtitle": "To‘liq biznes, marketing va AI",
             "Tag": "All-inclusive (1 Yil)",
             "Description": "VIP — katta maqsadli, bozorda lider bo‘lishni xohlaydigan kompaniyalar uchun.",
@@ -393,21 +384,21 @@
             },
             "FooterAccent": "Qo‘shimcha xarajatlar YO‘Q",
             "Comparison": {
-                "Title": "Nega $10,000 foydali?",
+                "Title": "Nega $3,000 foydali?",
                 "Subtitle": "Moliyaviy taqqoslash",
                 "Traditional": {
-                    "Title": "Bitta IT Mutaxassis",
-                    "Cost": "$15,000 / yil",
+                    "Title": "Boshqa Web Studiyalar",
+                    "Cost": "$5,000 - $10,000",
                     "Points": [
-                        "Oylik: $700–800",
-                        "Tayyor platforma yo'q",
-                        "Dizayn xizmati yo'q",
-                        "Kasallik/Ta'til xavfi"
+                        "Otchopar dizayn",
+                        "Texnik yordam yo'q",
+                        "Xavfsizlik kafolati yo'q",
+                        "Har bir o'zgarish pullik"
                     ]
                 },
                 "Vip": {
                     "Title": "VIP Ekotizim",
-                    "Cost": "$10,000 / yil",
+                    "Cost": "$3,000 / yil",
                     "Points": [
                         "To'liq jamoa (Designer, Dev, DevOps)",
                         "Tayyor Premium Platforma",

@@ -2,7 +2,7 @@
 
 import { useTranslations } from "next-intl";
 import { motion } from "framer-motion";
-import { Megaphone, Server, Rocket, CheckCircle, ArrowRight } from "lucide-react";
+import { Megaphone, Server, Rocket, CheckCircle, ArrowRight, BarChart2 } from "lucide-react";
 
 export const VipMarketingSlide = () => {
     const t = useTranslations("HomePage.vip_marketing");
@@ -10,7 +10,7 @@ export const VipMarketingSlide = () => {
     const cards = [
         { key: "smm", icon: Megaphone, color: "text-pink-600", bg: "bg-pink-50", border: "border-pink-100" },
         { key: "server", icon: Server, color: "text-blue-600", bg: "bg-blue-50", border: "border-blue-100" },
-        { key: "venture", icon: Rocket, color: "text-orange-600", bg: "bg-orange-50", border: "border-orange-100" },
+        { key: "analytics", icon: BarChart2, color: "text-orange-600", bg: "bg-orange-50", border: "border-orange-100" },
     ];
 
     return (
