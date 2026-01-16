@@ -162,400 +162,398 @@
                     "Kvartiralar narxi qancha?",
                     "Salom! 🔥 Kvartiralar $30,000 dan boshlanadi."
                 ],
-                "Features": [
-                    "24/7 Mijozlarga xizmat",
-                    "Barcha savollarga javob beradi",
-                    "Ishchilarni saralash (HR)",
-                    "Resume yaratish yordamchisi",
-                    "Kompaniya haqida to'liq ma'lumot"
-                ]
-            },
-            "JobXSummary": {
-                "Title": "JobX — AI HR Tizimi",
-                "Features": [
-                    "Avtomatik rezyume yaratish",
-                    "Video va Ovozli intervyu",
-                    "Nomzodlarni saralash (HR)",
-                    "6 oylik bepul obuna",
-                    "Sayt uchun maxsus vidjet"
-                ]
-            }
-        },
-        "vip_marketing": {
-            "Badge": "MARKETING VA YORDAM",
-            "Title": "Marketing va Texnik Yordam",
-            "Subtitle": "Boshidan oxirigacha to'liq qo'llab-quvvatlash",
-            "Cards": {
-                "server": {
-                    "Title": "Server, Backup, Monitoring",
-                    "Items": [
-                        "1 yil davomida bepul server",
-                        "Daily Backup (kunlik nusxa)",
-                        "24/7 Xavfsizlik monitoringi",
-                        "Texnik nosozliklarni tuzatish"
-                    ]
-                },
-                "analytics": {
-                    "Title": "Google Analytics & Metrica",
-                    "Items": [
-                        "Tashriflar statistikasi",
-                        "Mijozlar harakati (Behavior)",
-                        "Konversiya tahlili",
-                        "Real vaqt rejimi"
-                    ]
-                }
-            },
-            "FooterBanner": "VIP — boshidan oxirigacha biz bilan"
-        },
-        "why_erica": {
-            "Badge": "BIZ HAQIMIZDA",
-            "Title": "Nima uchun ERICA?",
-            "Subtitle": "Biz bilan ishlashning afzalliklari",
-            "Cards": [
-                {
-                    "Title": "Sizning biznes maqsadlaringizni tushunadigan jamoa"
-                },
-                {
-                    "Title": "Tajribali mutaxassislar"
-                },
-                {
-                    "Title": "To'liq shaffof va ishonchli hamkorlik"
-                },
-                {
-                    "Title": "Muddatlarga amal qilish"
-                },
-                {
-                    "Title": "Uzoq muddatli hamkorlik"
-                }
-            ],
-            "Metrics": {
-                "Projects": "100+ muvaffaqiyatli loyihalar",
-                "Experience": "5+ yillik tajriba",
-                "Clients": "Mamnun mijozlar"
-            }
-        },
-        "start_package": {
-            "Badge": "Web-sayt",
-            "Title": "START",
-            "Price": "$1,500",
-            "Subtitle": "Tez ishga tushish uchun Web-sayt",
-            "Description": "START paketi — biznesni tez boshlamoqchi bo‘lganlar uchun. G‘oya bor, lekin bozorga tez chiqish kerak. Bu paketda biz eng kerakli funksiyalarni beramiz.",
-            "Features": {
-                "Title": "Asosiy sahifalar:",
-                "List": [
-                    "Bosh sahifa",
-                    "Biz haqimizda",
-                    "Xizmatlar yoki mahsulotlar",
-                    "Kontaktlar"
-                ]
-            },
-            "Highlights": [
-                "Zamonaviy, toza dizayn",
-                "Oddiy admin panel",
-                "Mobil va kompyuterga mos",
-                "Tez ishlaydigan sayt"
-            ],
-            "Advantages": {
-                "Title": "START nimasi bilan qulay?",
-                "List": [
-                    "Arzon va tez ishga tushadi",
-                    "Bozorni test qilish mumkin",
-                    "Minimal xarajat bilan natija"
-                ]
-            }
-        },
-        "start_package_admin": {
-            "Title": "START paketida admin imkoniyatlari",
-            "Subtitle": "Asosiy boshqaruv va monitoring vositalari",
-            "Metrics": {
-                "Ads": {
-                    "Label": "E'lonlar soni",
-                    "Value": "156",
-                    "Growth": "+12%"
-                },
-                "Users": {
-                    "Label": "Aktiv foydalanuvchilar",
-                    "Value": "2.4K",
-                    "Growth": "+0%"
-                }
-            },
-            "Panel": {
-                "Title": "Boshqaruv paneli",
-                "Features": [
-                    {
-                        "Title": "E'lonlarni boshqarish",
-                        "Icon": "Layout"
-                    },
-                    {
-                        "Title": "Asosiy nazorat paneli",
-                        "Icon": "Settings"
-                    }
-                ],
-                "ChartTitle": "Haftalik ko'rsatkich"
-            },
-            "Why": {
-                "Title": "Nima uchun START?",
-                "Pros": [
-                    "Minimal byudjet",
-                    "Tez ishga tushirish",
-                    "O'zgarib turish talab"
-                ],
-                "Cons": [
-                    "Katta marketing yo'q"
-                ],
-                "Note": "START — bu boshlash uchun, kengaytirish uchun emas"
-            },
-            "FooterButton": "START — Biznesingiz uchun professional boshlanish"
-        },
-        "premium_package": {
-            "Badge": "Tavsiya etiladi",
-            "Title": "PREMIUM",
-            "Price": "$2,000",
-            "Subtitle": "Daromad va SEO uchun optimal",
-            "Description": "PREMIUM — biznesini o‘stirmoqchi bo'lganlar uchun. START + AI Chatbot va Jobx (6 oy).",
-            "Features": [
-                "Individual dizayn (brand asosida)",
-                "Kengaytirilgan admin panel",
-                "Mahsulotlar / xizmatlar katalogi",
-                "Yangiliklar va blog",
-                "SEO optimizatsiya (Google uchun)",
-                "Tezlik va xavfsizlik sozlamalari",
-                "Mijozlardan so‘rov olish formasi",
-                "Jobx ga dostup 6 oylik",
-                "AI Chatbot — Barcha savollarga javob beradi"
-            ],
-            "Advantages": {
-                "Title": "PREMIUM nimasi bilan kuchli?",
-                "List": [
-                    "Google’da yaxshi chiqadi",
-                    "Ko‘proq mijoz olib keladi",
-                    "Brend ishonchini oshiradi"
-                ]
-            },
-            "FooterNote": "Eng ko‘p tanlanadigan paket"
-        },
-        "jobx": {
-            "Badge": "AI HR PLATFORMA",
-            "Title": "AI bilan kadr tanlashni soddalashtiramiz",
-            "Subtitle": "JOB X — ishga qabul qilish jarayonini to'liq avtomatlashtirish",
-            "Description": "Rezyume yaratishdan tortib nomzodlarni baholashgacha — hammasi bitta platformada.",
-            "Features": {
-                "Title": "Asosiy imkoniyatlar",
-                "List": [
-                    {
-                        "Title": "AI Rezyume yaratuvchi",
-                        "Desc": "Nomzodlar AI chat orqali savollarga javob berishadi va tizim avtomatik ravishda professional rezyume yaratadi. HR vaqtini tejaydi.",
-                        "Button": "Demoni ko'rish"
-                    },
-                    {
-                        "Title": "Veb-sayt vidjeti",
-                        "Desc": "Noyob tokeningizdan foydalanib, bir qator kod orqali AI ishga qabul qilish vidjetimizni kompaniyangiz saytiga joylashtiring.",
-                        "Button": "Vidjetni sozlash"
-                    },
-                    {
-                        "Title": "AI Video intervyu",
-                        "Desc": "Javoblar va yuz ifodalarini real vaqtda tahlil qiluvchi kamera orqali AI yordamida yuzma-yuz intervyular o'tkazing.",
-                        "Button": "AI intervyuni sinash"
-                    },
-                    {
-                        "Title": "To'g'ridan-to'g'ri test havolalari",
-                        "Desc": "Nomzodlarga to'g'ridan-to'g'ri baholash havolalarini yuboring. Pochta yoki messenjerlar uchun qulay.",
-                        "Button": "Havola yaratish"
-                    },
-                    {
-                        "Title": "Vidjetni moslashtirish",
-                        "Desc": "Vidjet ko'rinishini, ranglar, shriftlar va AI xarakterini brendingizga mos ravishda to'liq sozlang.",
-                        "Button": "Hozir sozlash"
-                    },
-                    {
-                        "Title": "Admin panel tokenlari",
-                        "Desc": "Har bir kompaniya noyob token oladi va bu orqali vidjetni saytga integratsiya qiladi.",
-                        "Button": "Admin panelga o'tish"
-                    },
-                    {
-                        "Title": "AI Ovozli testlash",
-                        "Desc": "AI ovozli suhbatlari orqali nomzodlarning so'zlashuv qobiliyatini va til bilish darajasini baholang.",
-                        "Button": "Ovozli AIni sinash"
-                    },
-                    {
-                        "Title": "Vidjet ichidagi rezyume",
-                        "Desc": "Nomzodlar saytingizdan chiqmasdan turib, o'zlarining professional rezyumelarini yaratishlari va topshirishlari mumkin.",
-                        "Button": "Vidjetni ko'rish"
-                    },
-                    {
-                        "Title": "Foydalanuvchi boshqaruv markazi",
-                        "Desc": "Nomzodlar uchun maxsus dashboard: arizalar holatini kuzatish, intervyularni boshqarish va profillarni yangilash.",
-                        "Button": "Markazni ochish"
-                    }
-                ]
-            }
-        },
-        "vip_package": {
-            "Title": "VIP TARIF",
-            "Price": "$3,000",
-            "Subtitle": "To‘liq biznes, marketing va AI",
-            "Tag": "All-inclusive (1 Yil)",
-            "Description": "VIP — katta maqsadli, bozorda lider bo‘lishni xohlaydigan kompaniyalar uchun.",
-            "Features": {
-                "ecosystem": {
-                    "Title": "To‘liq biznes ekotizimi",
-                    "Items": [
-                        "Kuchli platforma",
-                        "Kengaytirilgan boshqaruv tizimi"
-                    ]
-                },
-                "marketing": {
-                    "Title": "Marketing va o‘sish",
-                    "Items": [
-                        "Marketing uchun tayyor struktura",
-                        "Lead yig‘ish tizimi",
-                        "Analytics va statistika"
-                    ]
-                },
-                "ai": {
-                    "Title": "AI imkoniyatlari",
-                    "Items": [
-                        "AI chat yordamchi",
-                        "Mijozlarga avtomatik javoblar",
-                        "24/7 ishlaydigan AI assistent"
-                    ]
-                },
-                "inclusive": {
-                    "Title": "1 yil hammasi kiritilgan",
-                    "Items": [
-                        "Server va hosting — 1 yil",
-                        "Domen — 1 yil",
-                        "Korporativ email — 1 yil",
-                        "Xavfsizlik va backup — 1 yil",
-                        "Texnik qo‘llab-quvvatlash — 1 yil"
-                    ]
-                }
-            },
-            "Advantages": {
-                "Title": "VIP nimasi bilan eng foydali?",
-                "List": [
-                    "Texnik muammolar yo‘q",
-                    "Marketing va savdo avtomatlashtiriladi",
-                    "AI yordamida vaqt tejaladi",
-                    "1 yil xotirjam ishlash"
-                ]
-            },
-            "FooterAccent": "Qo‘shimcha xarajatlar YO‘Q",
-            "Comparison": {
-                "Title": "Nega $3,000 foydali?",
-                "Subtitle": "Moliyaviy taqqoslash",
-                "Traditional": {
-                    "Title": "Boshqa Web Studiyalar",
-                    "Cost": "$5,000 - $10,000",
-                    "Points": [
-                        "Otchopar dizayn",
-                        "Texnik yordam yo'q",
-                        "Xavfsizlik kafolati yo'q",
-                        "Har bir o'zgarish pullik"
-                    ]
-                },
-                "Vip": {
-                    "Title": "VIP Ekotizim",
-                    "Cost": "$3,000 / yil",
-                    "Points": [
-                        "To'liq jamoa (Designer, Dev, DevOps)",
-                        "Tayyor Premium Platforma",
-                        "24/7 Monitoring",
-                        "100% Javobgarlik"
-                    ]
-                }
-            },
-            "Blocks": {
-                "Platform": {
-                    "Title": "1. Platforma",
-                    "Items": [
-                        "Zamonaviy Premium Dizayn",
-                        "Qulay Admin Panel",
-                        "Kontent boshqaruvi",
-                        "Kengaytirish imkoniyati"
-                    ]
-                },
-                "Services": {
-                    "Title": "2. Infratuzilma (1 Yil)",
-                    "Items": {
-                        "Server": {
-                            "Title": "Server",
-                            "Desc": "Tez va barqaror"
-                        },
-                        "Domain": {
-                            "Title": "Domen",
-                            "Desc": "Ro'yxatdan o'tkazish"
-                        },
-                        "Email": {
-                            "Title": "Email",
-                            "Desc": "info@company.uz"
-                        },
-                        "Security": {
-                            "Title": "Backup",
-                            "Desc": "Ma'lumotlar himoyasi"
-                        },
-                        "Support": {
-                            "Title": "Support",
-                            "Desc": "Texnik yordam"
-                        }
-                    }
-                },
-                "NoCosts": {
-                    "Title": "3. 1 Yil Xarajat Siz",
-                    "Subtitle": "Qo'shimcha to'lovlarsiz:",
-                    "Items": [
-                        "Server to'lovi: $0",
-                        "Domen to'lovi: $0",
-                        "Texnik xizmat: $0",
-                        "Kichik o'zgarishlar: $0",
-                        "Maslahatlar: $0"
-                    ]
-                }
-            },
-            "TargetAudience": "Katta maqsadli, vaqtini qadrlaydigan va bozorda lider bo'lishni xohlaydigan kompaniyalar uchun."
-        },
-        "solution": {
-            "Tag": "YECHIM",
-            "Title": "Erica taklif qiladigan yechim",
-            "Description": "Biz shunchaki sayt emas, biznesingizni rivojlantiradigan to‘liq ekotizim yaratamiz.",
-            "Link": "Batafsil ma'lumot",
-            "Footer": "Barchasi bir joyda",
-            "List": [
-                "Zamonaviy Dizayn",
-                "Tezkor ishlash tezligi",
-                "SEO optimizatsiya",
-                "Moslashuvchanlik (Mobile)",
-                "Xavfsizlik",
-                "Admin Panel"
+                "24/7 Mijozlarga xizmat",
+                "Barcha savollarga javob beradi",
+                "Resume yaratish yordamchisi",
+                "Kompaniya haqida to'liq ma'lumot"
             ]
         },
-        "next_steps": {
-            "Title": "Keyingi qadamlar",
-            "Steps": {
-                "1": {
-                    "Title": "Talablarni tasdiqlash",
-                    "Desc": "Loyiha ko'lami va vazifalarini aniqlashtirish"
+        "JobXSummary": {
+            "Title": "JobX — AI HR Tizimi",
+            "Features": [
+                "Avtomatik rezyume yaratish",
+                "Video va Ovozli intervyu",
+                "Nomzodlarni saralash (HR)",
+                "6 oylik bepul obuna",
+                "Sayt uchun maxsus vidjet"
+            ]
+        }
+    },
+    "vip_marketing": {
+        "Badge": "MARKETING VA YORDAM",
+        "Title": "Marketing va Texnik Yordam",
+        "Subtitle": "Boshidan oxirigacha to'liq qo'llab-quvvatlash",
+        "Cards": {
+            "server": {
+                "Title": "Server, Backup, Monitoring",
+                "Items": [
+                    "1 yil davomida bepul server",
+                    "Daily Backup (kunlik nusxa)",
+                    "24/7 Xavfsizlik monitoringi",
+                    "Texnik nosozliklarni tuzatish"
+                ]
+            },
+            "analytics": {
+                "Title": "Google Analytics & Metrica",
+                "Items": [
+                    "Tashriflar statistikasi",
+                    "Mijozlar harakati (Behavior)",
+                    "Konversiya tahlili",
+                    "Real vaqt rejimi"
+                ]
+            }
+        },
+        "FooterBanner": "VIP — boshidan oxirigacha biz bilan"
+    },
+    "why_erica": {
+        "Badge": "BIZ HAQIMIZDA",
+        "Title": "Nima uchun ERICA?",
+        "Subtitle": "Biz bilan ishlashning afzalliklari",
+        "Cards": [
+            {
+                "Title": "Sizning biznes maqsadlaringizni tushunadigan jamoa"
+            },
+            {
+                "Title": "Tajribali mutaxassislar"
+            },
+            {
+                "Title": "To'liq shaffof va ishonchli hamkorlik"
+            },
+            {
+                "Title": "Muddatlarga amal qilish"
+            },
+            {
+                "Title": "Uzoq muddatli hamkorlik"
+            }
+        ],
+        "Metrics": {
+            "Projects": "100+ muvaffaqiyatli loyihalar",
+            "Experience": "5+ yillik tajriba",
+            "Clients": "Mamnun mijozlar"
+        }
+    },
+    "start_package": {
+        "Badge": "Web-sayt",
+        "Title": "START",
+        "Price": "$1,500",
+        "Subtitle": "Tez ishga tushish uchun Web-sayt",
+        "Description": "START paketi — biznesni tez boshlamoqchi bo‘lganlar uchun. G‘oya bor, lekin bozorga tez chiqish kerak. Bu paketda biz eng kerakli funksiyalarni beramiz.",
+        "Features": {
+            "Title": "Asosiy sahifalar:",
+            "List": [
+                "Bosh sahifa",
+                "Biz haqimizda",
+                "Xizmatlar yoki mahsulotlar",
+                "Kontaktlar"
+            ]
+        },
+        "Highlights": [
+            "Zamonaviy, toza dizayn",
+            "Oddiy admin panel",
+            "Mobil va kompyuterga mos",
+            "Tez ishlaydigan sayt"
+        ],
+        "Advantages": {
+            "Title": "START nimasi bilan qulay?",
+            "List": [
+                "Arzon va tez ishga tushadi",
+                "Bozorni test qilish mumkin",
+                "Minimal xarajat bilan natija"
+            ]
+        }
+    },
+    "start_package_admin": {
+        "Title": "START paketida admin imkoniyatlari",
+        "Subtitle": "Asosiy boshqaruv va monitoring vositalari",
+        "Metrics": {
+            "Ads": {
+                "Label": "E'lonlar soni",
+                "Value": "156",
+                "Growth": "+12%"
+            },
+            "Users": {
+                "Label": "Aktiv foydalanuvchilar",
+                "Value": "2.4K",
+                "Growth": "+0%"
+            }
+        },
+        "Panel": {
+            "Title": "Boshqaruv paneli",
+            "Features": [
+                {
+                    "Title": "E'lonlarni boshqarish",
+                    "Icon": "Layout"
                 },
-                "2": {
-                    "Title": "Shartnoma tuzish",
-                    "Desc": "Rasmiy kelishuv va hujjatlarni imzolash"
+                {
+                    "Title": "Asosiy nazorat paneli",
+                    "Icon": "Settings"
+                }
+            ],
+            "ChartTitle": "Haftalik ko'rsatkich"
+        },
+        "Why": {
+            "Title": "Nima uchun START?",
+            "Pros": [
+                "Minimal byudjet",
+                "Tez ishga tushirish",
+                "O'zgarib turish talab"
+            ],
+            "Cons": [
+                "Katta marketing yo'q"
+            ],
+            "Note": "START — bu boshlash uchun, kengaytirish uchun emas"
+        },
+        "FooterButton": "START — Biznesingiz uchun professional boshlanish"
+    },
+    "premium_package": {
+        "Badge": "Tavsiya etiladi",
+        "Title": "PREMIUM",
+        "Price": "$2,000",
+        "Subtitle": "Daromad va SEO uchun optimal",
+        "Description": "PREMIUM — biznesini o‘stirmoqchi bo'lganlar uchun. START + AI Chatbot va Jobx (6 oy).",
+        "Features": [
+            "Individual dizayn (brand asosida)",
+            "Kengaytirilgan admin panel",
+            "Mahsulotlar / xizmatlar katalogi",
+            "Yangiliklar va blog",
+            "SEO optimizatsiya (Google uchun)",
+            "Tezlik va xavfsizlik sozlamalari",
+            "Mijozlardan so‘rov olish formasi",
+            "Jobx ga dostup 6 oylik",
+            "AI Chatbot — Barcha savollarga javob beradi"
+        ],
+        "Advantages": {
+            "Title": "PREMIUM nimasi bilan kuchli?",
+            "List": [
+                "Google’da yaxshi chiqadi",
+                "Ko‘proq mijoz olib keladi",
+                "Brend ishonchini oshiradi"
+            ]
+        },
+        "FooterNote": "Eng ko‘p tanlanadigan paket"
+    },
+    "jobx": {
+        "Badge": "AI HR PLATFORMA",
+        "Title": "AI bilan kadr tanlashni soddalashtiramiz",
+        "Subtitle": "JOB X — ishga qabul qilish jarayonini to'liq avtomatlashtirish",
+        "Description": "Rezyume yaratishdan tortib nomzodlarni baholashgacha — hammasi bitta platformada.",
+        "Features": {
+            "Title": "Asosiy imkoniyatlar",
+            "List": [
+                {
+                    "Title": "AI Rezyume yaratuvchi",
+                    "Desc": "Nomzodlar AI chat orqali savollarga javob berishadi va tizim avtomatik ravishda professional rezyume yaratadi. HR vaqtini tejaydi.",
+                    "Button": "Demoni ko'rish"
                 },
-                "3": {
-                    "Title": "Ishni boshlash",
-                    "Desc": "Loyiha ustida ishlashni start berish"
+                {
+                    "Title": "Veb-sayt vidjeti",
+                    "Desc": "Noyob tokeningizdan foydalanib, bir qator kod orqali AI ishga qabul qilish vidjetimizni kompaniyangiz saytiga joylashtiring.",
+                    "Button": "Vidjetni sozlash"
                 },
-                "4": {
-                    "Title": "Loyihani topshirish",
-                    "Desc": "Tayyor mahsulotni taqdim etish va o'rgatish"
+                {
+                    "Title": "AI Video intervyu",
+                    "Desc": "Javoblar va yuz ifodalarini real vaqtda tahlil qiluvchi kamera orqali AI yordamida yuzma-yuz intervyular o'tkazing.",
+                    "Button": "AI intervyuni sinash"
+                },
+                {
+                    "Title": "To'g'ridan-to'g'ri test havolalari",
+                    "Desc": "Nomzodlarga to'g'ridan-to'g'ri baholash havolalarini yuboring. Pochta yoki messenjerlar uchun qulay.",
+                    "Button": "Havola yaratish"
+                },
+                {
+                    "Title": "Vidjetni moslashtirish",
+                    "Desc": "Vidjet ko'rinishini, ranglar, shriftlar va AI xarakterini brendingizga mos ravishda to'liq sozlang.",
+                    "Button": "Hozir sozlash"
+                },
+                {
+                    "Title": "Admin panel tokenlari",
+                    "Desc": "Har bir kompaniya noyob token oladi va bu orqali vidjetni saytga integratsiya qiladi.",
+                    "Button": "Admin panelga o'tish"
+                },
+                {
+                    "Title": "AI Ovozli testlash",
+                    "Desc": "AI ovozli suhbatlari orqali nomzodlarning so'zlashuv qobiliyatini va til bilish darajasini baholang.",
+                    "Button": "Ovozli AIni sinash"
+                },
+                {
+                    "Title": "Vidjet ichidagi rezyume",
+                    "Desc": "Nomzodlar saytingizdan chiqmasdan turib, o'zlarining professional rezyumelarini yaratishlari va topshirishlari mumkin.",
+                    "Button": "Vidjetni ko'rish"
+                },
+                {
+                    "Title": "Foydalanuvchi boshqaruv markazi",
+                    "Desc": "Nomzodlar uchun maxsus dashboard: arizalar holatini kuzatish, intervyularni boshqarish va profillarni yangilash.",
+                    "Button": "Markazni ochish"
+                }
+            ]
+        }
+    },
+    "vip_package": {
+        "Title": "VIP TARIF",
+        "Price": "$3,000",
+        "Subtitle": "To‘liq biznes, marketing va AI",
+        "Tag": "All-inclusive (1 Yil)",
+        "Description": "VIP — katta maqsadli, bozorda lider bo‘lishni xohlaydigan kompaniyalar uchun.",
+        "Features": {
+            "ecosystem": {
+                "Title": "To‘liq biznes ekotizimi",
+                "Items": [
+                    "Kuchli platforma",
+                    "Kengaytirilgan boshqaruv tizimi"
+                ]
+            },
+            "marketing": {
+                "Title": "Marketing va o‘sish",
+                "Items": [
+                    "Marketing uchun tayyor struktura",
+                    "Lead yig‘ish tizimi",
+                    "Analytics va statistika"
+                ]
+            },
+            "ai": {
+                "Title": "AI imkoniyatlari",
+                "Items": [
+                    "AI chat yordamchi",
+                    "Mijozlarga avtomatik javoblar",
+                    "24/7 ishlaydigan AI assistent"
+                ]
+            },
+            "inclusive": {
+                "Title": "1 yil hammasi kiritilgan",
+                "Items": [
+                    "Server va hosting — 1 yil",
+                    "Domen — 1 yil",
+                    "Korporativ email — 1 yil",
+                    "Xavfsizlik va backup — 1 yil",
+                    "Texnik qo‘llab-quvvatlash — 1 yil"
+                ]
+            }
+        },
+        "Advantages": {
+            "Title": "VIP nimasi bilan eng foydali?",
+            "List": [
+                "Texnik muammolar yo‘q",
+                "Marketing va savdo avtomatlashtiriladi",
+                "AI yordamida vaqt tejaladi",
+                "1 yil xotirjam ishlash"
+            ]
+        },
+        "FooterAccent": "Qo‘shimcha xarajatlar YO‘Q",
+        "Comparison": {
+            "Title": "Nega $3,000 foydali?",
+            "Subtitle": "Moliyaviy taqqoslash",
+            "Traditional": {
+                "Title": "Boshqa Web Studiyalar",
+                "Cost": "$5,000 - $10,000",
+                "Points": [
+                    "Otchopar dizayn",
+                    "Texnik yordam yo'q",
+                    "Xavfsizlik kafolati yo'q",
+                    "Har bir o'zgarish pullik"
+                ]
+            },
+            "Vip": {
+                "Title": "VIP Ekotizim",
+                "Cost": "$3,000 / yil",
+                "Points": [
+                    "To'liq jamoa (Designer, Dev, DevOps)",
+                    "Tayyor Premium Platforma",
+                    "24/7 Monitoring",
+                    "100% Javobgarlik"
+                ]
+            }
+        },
+        "Blocks": {
+            "Platform": {
+                "Title": "1. Platforma",
+                "Items": [
+                    "Zamonaviy Premium Dizayn",
+                    "Qulay Admin Panel",
+                    "Kontent boshqaruvi",
+                    "Kengaytirish imkoniyati"
+                ]
+            },
+            "Services": {
+                "Title": "2. Infratuzilma (1 Yil)",
+                "Items": {
+                    "Server": {
+                        "Title": "Server",
+                        "Desc": "Tez va barqaror"
+                    },
+                    "Domain": {
+                        "Title": "Domen",
+                        "Desc": "Ro'yxatdan o'tkazish"
+                    },
+                    "Email": {
+                        "Title": "Email",
+                        "Desc": "info@company.uz"
+                    },
+                    "Security": {
+                        "Title": "Backup",
+                        "Desc": "Ma'lumotlar himoyasi"
+                    },
+                    "Support": {
+                        "Title": "Support",
+                        "Desc": "Texnik yordam"
+                    }
                 }
             },
-            "Footer": {
-                "Text": "ERICA — sizning ishonchli texnik hamkoringiz",
-                "Badge": "Hamkorlikni boshlash",
-                "Email": "anvardavronov@uventures.uz",
-                "Phone1": "+998 77 114 40 45",
-                "Phone2": "+998 33 797 40 00"
+            "NoCosts": {
+                "Title": "3. 1 Yil Xarajat Siz",
+                "Subtitle": "Qo'shimcha to'lovlarsiz:",
+                "Items": [
+                    "Server to'lovi: $0",
+                    "Domen to'lovi: $0",
+                    "Texnik xizmat: $0",
+                    "Kichik o'zgarishlar: $0",
+                    "Maslahatlar: $0"
+                ]
             }
+        },
+        "TargetAudience": "Katta maqsadli, vaqtini qadrlaydigan va bozorda lider bo'lishni xohlaydigan kompaniyalar uchun."
+    },
+    "solution": {
+        "Tag": "YECHIM",
+        "Title": "Erica taklif qiladigan yechim",
+        "Description": "Biz shunchaki sayt emas, biznesingizni rivojlantiradigan to‘liq ekotizim yaratamiz.",
+        "Link": "Batafsil ma'lumot",
+        "Footer": "Barchasi bir joyda",
+        "List": [
+            "Zamonaviy Dizayn",
+            "Tezkor ishlash tezligi",
+            "SEO optimizatsiya",
+            "Moslashuvchanlik (Mobile)",
+            "Xavfsizlik",
+            "Admin Panel"
+        ]
+    },
+    "next_steps": {
+        "Title": "Keyingi qadamlar",
+        "Steps": {
+            "1": {
+                "Title": "Talablarni tasdiqlash",
+                "Desc": "Loyiha ko'lami va vazifalarini aniqlashtirish"
+            },
+            "2": {
+                "Title": "Shartnoma tuzish",
+                "Desc": "Rasmiy kelishuv va hujjatlarni imzolash"
+            },
+            "3": {
+                "Title": "Ishni boshlash",
+                "Desc": "Loyiha ustida ishlashni start berish"
+            },
+            "4": {
+                "Title": "Loyihani topshirish",
+                "Desc": "Tayyor mahsulotni taqdim etish va o'rgatish"
+            }
+        },
+        "Footer": {
+            "Text": "ERICA — sizning ishonchli texnik hamkoringiz",
+            "Badge": "Hamkorlikni boshlash",
+            "Email": "anvardavronov@uventures.uz",
+            "Phone1": "+998 77 114 40 45",
+            "Phone2": "+998 33 797 40 00"
         }
     }
+}
 }

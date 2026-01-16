@@ -113,7 +113,7 @@ export const VipBrandingAiSlide = () => {
                         </div>
 
                         <ul className="space-y-2 relative z-10 mt-auto">
-                            {[0, 1, 2, 3, 4].map((i) => (
+                            {[0, 1, 2, 3].map((i) => (
                                 <li key={i} className="flex items-center gap-2.5">
                                     <CheckCircle2 className="w-4 h-4 text-blue-500 flex-shrink-0" />
                                     <span className="text-gray-700 text-sm font-medium">{t(`AiBot.Features.${i}`)}</span>
