@@ -37,37 +37,35 @@ export const VipBrandingAiSlide = () => {
                     </motion.p>
                 </div>
 
-                <div className="flex justify-center items-center h-full">
+                <div className="flex flex-col md:flex-row justify-center items-stretch gap-6 h-full">
 
-
-
-                    {/* AI Chatbot Section */}
+                    {/* 1. AI Chatbot Card */}
                     <motion.div
-                        initial={{ opacity: 0, scale: 0.95 }}
-                        whileInView={{ opacity: 1, scale: 1 }}
-                        transition={{ delay: 0.3 }}
-                        className="bg-blue-50 rounded-3xl p-8 relative overflow-hidden flex flex-col w-full max-w-2xl"
+                        initial={{ opacity: 0, x: -20 }}
+                        whileInView={{ opacity: 1, x: 0 }}
+                        transition={{ delay: 0.2 }}
+                        className="bg-blue-50/80 rounded-3xl p-6 relative overflow-hidden flex flex-col w-full max-w-md border border-blue-100"
                     >
-                        <div className="absolute top-0 right-0 p-6 opacity-10 text-blue-600">
-                            <Bot className="w-24 h-24" />
+                        <div className="absolute top-0 right-0 p-4 opacity-10 text-blue-600">
+                            <Bot className="w-20 h-20" />
                         </div>
 
-                        <div className="flex items-center gap-3 mb-6">
-                            <div className="w-10 h-10 bg-blue-100 text-blue-600 rounded-xl flex items-center justify-center">
+                        <div className="flex items-center gap-3 mb-5">
+                            <div className="w-10 h-10 bg-blue-100 text-blue-600 rounded-xl flex items-center justify-center shadow-sm">
                                 <Bot className="w-5 h-5" />
                             </div>
-                            <h3 className="text-xl font-bold text-gray-900">{t("AiBot.Title")}</h3>
+                            <h3 className="text-lg font-bold text-gray-900">{t("AiBot.Title")}</h3>
                         </div>
 
-                        {/* Chat Interface Mockup */}
-                        <div className="bg-white rounded-xl shadow-sm border border-blue-100 p-3 mb-4 max-w-sm mx-auto w-full relative z-10">
+                        {/* Chat Mockup */}
+                        <div className="bg-white rounded-xl shadow-sm border border-blue-100 p-3 mb-4 w-full relative z-10">
                             <div className="flex items-start gap-2 mb-2">
                                 <div className="w-6 h-6 bg-gray-100 rounded-full flex-shrink-0" />
                                 <div className="bg-gray-100 rounded-xl rounded-tl-none px-3 py-1.5 text-[10px] text-gray-600">
                                     {t("AiBot.Questions.0")}
                                 </div>
                             </div>
-                            <div className="flex items-start gap-2 justify-end mb-1">
+                            <div className="flex items-start gap-2 justify-end">
                                 <div className="bg-blue-600 text-white rounded-xl rounded-tr-none px-3 py-1.5 text-[10px]">
                                     {t("AiBot.Questions.1")}
                                 </div>
@@ -77,12 +75,50 @@ export const VipBrandingAiSlide = () => {
                         <ul className="space-y-2 relative z-10 mt-auto">
                             {[0, 1, 2, 3, 4].map((i) => (
                                 <li key={i} className="flex items-center gap-2.5">
-                                    <div className="w-1.5 h-1.5 rounded-full bg-blue-500" />
+                                    <CheckCircle2 className="w-4 h-4 text-blue-500 flex-shrink-0" />
                                     <span className="text-gray-700 text-sm font-medium">{t(`AiBot.Features.${i}`)}</span>
                                 </li>
                             ))}
                         </ul>
+                    </motion.div>
 
+                    {/* 2. Voice Bot Card */}
+                    <motion.div
+                        initial={{ opacity: 0, x: 20 }}
+                        whileInView={{ opacity: 1, x: 0 }}
+                        transition={{ delay: 0.3 }}
+                        className="bg-indigo-50/80 rounded-3xl p-6 relative overflow-hidden flex flex-col w-full max-w-md border border-indigo-100"
+                    >
+                        <div className="absolute top-0 right-0 p-4 opacity-10 text-indigo-600">
+                            <MessageSquare className="w-20 h-20" />
+                        </div>
+
+                        <div className="flex items-center gap-3 mb-5">
+                            <div className="w-10 h-10 bg-indigo-100 text-indigo-600 rounded-xl flex items-center justify-center shadow-sm">
+                                <MessageSquare className="w-5 h-5" />
+                            </div>
+                            <h3 className="text-lg font-bold text-gray-900">{t("VoiceBot.Title")}</h3>
+                        </div>
+
+                        {/* Voice Mockup */}
+                        <div className="bg-white rounded-xl shadow-sm border border-indigo-100 p-3 mb-4 w-full relative z-10 flex flex-col items-center justify-center gap-2 py-6">
+                            <div className="flex gap-1 items-center justify-center h-6">
+                                <motion.div animate={{ height: [10, 20, 10] }} transition={{ repeat: Infinity, duration: 1 }} className="w-1 bg-indigo-500 rounded-full" />
+                                <motion.div animate={{ height: [14, 24, 14] }} transition={{ repeat: Infinity, duration: 1.1 }} className="w-1 bg-indigo-500 rounded-full" />
+                                <motion.div animate={{ height: [8, 18, 8] }} transition={{ repeat: Infinity, duration: 0.9 }} className="w-1 bg-indigo-500 rounded-full" />
+                                <motion.div animate={{ height: [12, 22, 12] }} transition={{ repeat: Infinity, duration: 1.2 }} className="w-1 bg-indigo-500 rounded-full" />
+                            </div>
+                            <p className="text-[10px] text-gray-500 font-medium">Recording...</p>
+                        </div>
+
+                        <ul className="space-y-2 relative z-10 mt-auto">
+                            {[0, 1, 2, 3].map((i) => (
+                                <li key={i} className="flex items-center gap-2.5">
+                                    <CheckCircle2 className="w-4 h-4 text-indigo-500 flex-shrink-0" />
+                                    <span className="text-gray-700 text-sm font-medium">{t(`VoiceBot.Features.${i}`)}</span>
+                                </li>
+                            ))}
+                        </ul>
                     </motion.div>
 
                 </div>

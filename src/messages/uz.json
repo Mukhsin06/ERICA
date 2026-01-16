@@ -169,6 +169,19 @@
                     "Resume yaratish yordamchisi",
                     "Kompaniya haqida to'liq ma'lumot"
                 ]
+            },
+            "VoiceBot": {
+                "Title": "AI Ovozli Yordamchi",
+                "Questions": [
+                    "Suhbatni boshlaymizmi?",
+                    "Albatta! Men tayyorman."
+                ],
+                "Features": [
+                    "Tabiiy ovozda muloqot",
+                    "Ko'p tilli qo'llab-quvvatlash",
+                    "Buyurtmalarni qabul qilish",
+                    "Mijozlarni saralash"
+                ]
             }
         },
         "vip_marketing": {

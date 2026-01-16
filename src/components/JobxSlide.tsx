@@ -20,7 +20,7 @@ export const JobxSlide = () => {
     ];
 
     return (
-        <section className="h-[90vh] max-h-[90vh] min-h-[600px] w-full flex items-center justify-center bg-slate-900 py-2 overflow-hidden relative">
+        <section className="h-full min-h-screen w-full flex items-center justify-center bg-slate-900 py-2 overflow-hidden relative">
             {/* Background Accents */}
             <div className="absolute top-0 left-0 w-full h-full overflow-hidden pointer-events-none">
                 <div className="absolute top-[-10%] left-[-10%] w-[500px] h-[500px] bg-blue-600/20 rounded-full blur-[100px]" />
