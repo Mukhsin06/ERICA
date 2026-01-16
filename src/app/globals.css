@@ -1,0 +1,66 @@
+@import "tailwindcss";
+
+@theme {
+  --font-sans: var(--font-outfit), ui-sans-serif, system-ui, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+
+  /* Reference Design Colors */
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+
+  --color-primary: var(--primary);
+  --color-primary-foreground: var(--primary-foreground);
+
+  --color-secondary: var(--secondary);
+  --color-secondary-foreground: var(--secondary-foreground);
+
+  --color-accent: var(--accent);
+  --color-accent-foreground: var(--accent-foreground);
+
+  --radius-lg: 0.5rem;
+  --radius-md: calc(0.5rem - 2px);
+  --radius-sm: calc(0.5rem - 4px);
+}
+
+@utility container-padding {
+  @apply px-8 md:px-16 lg:px-24;
+}
+
+:root {
+  /* Light Mode Default (Matching Reference) */
+  --background: #ffffff;
+  --foreground: #1c1c1e;
+  /* Dark Grey/Black */
+
+  --primary: #2d8b66;
+  /* Specific Muted Emerald from image */
+  --primary-foreground: #ffffff;
+
+  --secondary: #eefdf6;
+  /* Very light green for badge bg */
+  --secondary-foreground: #2d8b66;
+
+  --accent: #2d8b66;
+  --accent-foreground: #ffffff;
+
+  --border: #e5e7eb;
+  --input: #e5e7eb;
+}
+
+@media (prefers-color-scheme: dark) {
+
+  /* Keep dark mode available but default will be light in layout */
+  :root {
+    --background: #ffffff;
+    /* Force light for now as requested design is static slide style */
+    --foreground: #1c1c1e;
+  }
+}
+
+body {
+  background-color: var(--background);
+  color: var(--foreground);
+  font-family: var(--font-sans);
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  overflow-x: hidden;
+}

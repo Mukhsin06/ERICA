@@ -1,0 +1,128 @@
+{
+    "HomePage": {
+        "title": "Erica - Professional Web Platform",
+        "hero": {
+            "Badge": "COMMERCIAL PROPOSAL",
+            "Title": "Developing professional websites and platforms",
+            "Subtitle": "Complete technical solution and service proposal"
+        },
+        "introduction": {
+            "Badge": "INTRODUCTION",
+            "Title": "Dear Customer,",
+            "Description": "In this document, you can get acquainted with the services, solutions, and prices offered by ERICA IT company for the development of modern web platforms.",
+            "Footer": {
+                "Professional": "Professional solutions",
+                "Reliable": "Reliable partnership"
+            }
+        },
+        "solution": {
+            "Badge": "SOLUTION",
+            "Title": "Solution offered by",
+            "TitleHighlight": "ERICA",
+            "Description": "Our professional team creates a fully functional platform tailored to your business needs.",
+            "Link": "Step to success",
+            "CardFooter": "All in one place",
+            "Points": {
+                "1": "Individual web platform based on your idea",
+                "2": "Features adapted for the Uzbekistan market",
+                "3": "Step-by-step development",
+                "4": "Transparent pricing and clear deadlines",
+                "5": "Technical support"
+            }
+        },
+        "capabilities": {
+            "Badge": "CAPABILITIES",
+            "Title": "Platform",
+            "TitleHighlight": "capabilities",
+            "Footer": "6 main modules • Full integration",
+            "cards": {
+                "1": {
+                    "Title": "Houses and Apartments",
+                    "Description": "Posting houses, apartments, land, and commercial objects"
+                },
+                "2": {
+                    "Title": "Search and Filters",
+                    "Description": "Advanced search and filter system"
+                },
+                "3": {
+                    "Title": "Map View",
+                    "Description": "View on map and location detection"
+                },
+                "4": {
+                    "Title": "Users",
+                    "Description": "Possibility to connect seller and buyer"
+                },
+                "5": {
+                    "Title": "Monetization",
+                    "Description": "Earning income through paid listings"
+                },
+                "6": {
+                    "Title": "Commercial Objects",
+                    "Description": "All websites in one place"
+                }
+            }
+        },
+        "about": {
+            "Badge": "ABOUT COMPANY",
+            "Title": "ERICA — Your Trusted IT Partner",
+            "Points": {
+                "1": "ERICA — Specialized company in IT and software development",
+                "2": "We turn business ideas into real working digital products",
+                "3": "Experienced in working with modern businesses",
+                "4": "We lead the project from start to finish"
+            },
+            "cards": {
+                "Technology": {
+                    "Title": "Technology",
+                    "Description": "Modern technologies"
+                },
+                "Team": {
+                    "Title": "Team",
+                    "Description": "Professional specialists"
+                },
+                "Growth": {
+                    "Title": "Growth",
+                    "Description": "Together with your business"
+                },
+                "Speed": {
+                    "Title": "Speed",
+                    "Description": "Efficient solutions"
+                }
+            }
+        },
+        "problems": {
+            "Badge": "PROBLEMS",
+            "Title": "Problems you are",
+            "TitleHighlight": "facing",
+            "cards": {
+                "1": {
+                    "text": "Lack of ready and suitable platform"
+                },
+                "2": {
+                    "text": "Uncertainty in choosing a technical team"
+                },
+                "3": {
+                    "text": "Not knowing where to start the project"
+                },
+                "4": {
+                    "text": "Difficulty controlling budget and timeline"
+                },
+                "5": {
+                    "text": "Problems with future scaling"
+                }
+            }
+        }
+    },
+    "next_steps": {
+        "Title": "Next Steps",
+        "steps": {
+            "1": "Confirm Requirements",
+            "2": "Sign Contract",
+            "3": "Start Work",
+            "4": "Project Delivery"
+        },
+        "Tagline": "your trusted technical partner",
+        "Cta": "Start Collaboration"
+    }
+}
+}

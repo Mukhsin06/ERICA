@@ -1,0 +1,512 @@
+{
+    "HomePage": {
+        "title": "BMB Holding — Raqamli Transformatsiya",
+        "hero": {
+            "Badge": "Tijorat Taklifi",
+            "Title": "Professional web-sayt va platformalarni ishlab chiqish",
+            "Subtitle": "Global bozor uchun Premium Ekotizim"
+        },
+        "problems": {
+            "Badge": "MUAMMOLAR",
+            "Title": "Siz duch kelayotgan",
+            "TitleHighlight": "muammolar",
+            "cards": {
+                "1": {
+                    "Title": "Eskirgan dizayn va interfeys",
+                    "Desc": "Mijozlarda ishonchsizlik uyg'otmoqda"
+                },
+                "2": {
+                    "Title": "Sekin ishlash",
+                    "Desc": "Mijozlar kutmayapti"
+                },
+                "3": {
+                    "Title": "Mobil noqulaylik",
+                    "Desc": "Mobil qurilmalarda noto'g'ri ko'rinish"
+                },
+                "4": {
+                    "Title": "SEO yo'qligi",
+                    "Desc": "Google'da topilmayapti"
+                },
+                "5": {
+                    "Title": "Admin panel yo'qligi",
+                    "Desc": "O'zgarish qilish qiyin"
+                },
+                "6": {
+                    "Title": "Xavfsizlik yo'qligi",
+                    "Desc": "Ma'lumotlar xavfsizligi butunlay kafolatlanmagan"
+                }
+            }
+        },
+        "introduction": {
+            "Badge": "MUAMMO VA YECHIM",
+            "Title": "Hozirgi holat vs Bizning yechim",
+            "Description": "Bugungi raqamli davrda oddiy web-saytlar biznes talablariga javob bermayapti. Erica - bu shunchaki sayt emas, balki biznesingizni yangi bosqichga olib chiquvchi to'liq raqamli ekotizimdir. Bu yerda dizayn investorga ishonch beradi, tizim esa barcha ma'lumotlarni bir joyda xavfsiz saqlaydi.",
+            "Footer": {
+                "Professional": "Ma'lumotlar tarqoqligi",
+                "Reliable": "Yagona Ekotizim"
+            }
+        },
+        "capabilities": {
+            "Badge": "BOSHQARUV (ADMIN PANEL)",
+            "Title": "Biznesingiz to'liq nazorat ostida",
+            "TitleHighlight": "monitoring",
+            "Footer": "Yagona Admin Panel • Oson boshqaruv",
+            "cards": {
+                "1": {
+                    "Title": "Yagona Panel",
+                    "Description": "Barcha saytlar bir joyda jamlangan"
+                },
+                "2": {
+                    "Title": "Oson Boshqaruv",
+                    "Description": "IT mutaxassis ishtirokisiz, ma'lumotlarni oson va tezkor boshqarish"
+                },
+                "3": {
+                    "Title": "Statistika",
+                    "Description": "Sotuvlar va tashriflar monitoringi"
+                },
+                "4": {
+                    "Title": "Mijozlar Bazasi",
+                    "Description": "Barcha ma'lumotlar bitta oynada"
+                },
+                "5": {
+                    "Title": "Kontent",
+                    "Description": "Yangilik va narxlarni tezkor boshqarish"
+                },
+                "6": {
+                    "Title": "Integratsiya",
+                    "Description": "CRM va boshqa tizimlar bilan bog'liqlik"
+                }
+            }
+        },
+        "security": {
+            "Title": "XAVFSIZLIK: Ma'lumotlar — Sizning Eng Muhim Aktivingiz",
+            "SearchBarPlaceholder": "Loglar tarixi va monitoring...",
+            "ChartTitle": "Kiberhujumlardan himoya darajasi",
+            "Months": {
+                "Jan": "Yan",
+                "Feb": "Fev",
+                "Mar": "Mar",
+                "Apr": "Apr",
+                "May": "May",
+                "Jun": "Iyun",
+                "Jul": "Iyul"
+            },
+            "Cards": {
+                "1": "Log Tizimi (Kim, qachon, nima?)",
+                "2": "Daily Backup (Avtomatik nusxa)",
+                "3": "Himoyalangan serverlar",
+                "4": "Ma'lumotlar yo'qolishidan kafolat"
+            },
+            "FooterBadge": "100% Ma'lumotlar himoyasi"
+        },
+        "seo": {
+            "Title": "SEO va Google optimizatsiya",
+            "Placeholder": "web xizmatlar Toshkent...",
+            "ChartTitle": "Organik trafik o'sishi",
+            "GraphLabels": [
+                "Okt",
+                "Noy",
+                "Dek",
+                "Yan",
+                "Fev",
+                "Mar"
+            ],
+            "Features": {
+                "1": {
+                    "Title": "Google qidiruvi uchun tayyor tuzilma"
+                },
+                "2": {
+                    "Title": "Hudud va tuman sahifalari"
+                },
+                "3": {
+                    "Title": "Tez yuklanish"
+                },
+                "4": {
+                    "Title": "Asosiy SEO sozlamalari loyihaga kiritilgan"
+                }
+            },
+            "FooterButton": "Google qidiruv natijalarida yetakchi o'rinlar"
+        },
+        "packages_summary": {
+            "Title": "PAKETLAR QISQACHA",
+            "Subtitle": "Loyihangiz uchun eng mos variantni tanlang",
+            "FooterNote": "Barcha paketlarda texnik yordam mavjud",
+            "cards": {
+                "start": {
+                    "Badge": "Web-sayt",
+                    "Title": "START",
+                    "Price": "$4,000",
+                    "Description": "Tez ishga tushish uchun Web-sayt. Biznesni tez boshlamoqchi bo‘lganlar uchun."
+                },
+                "premium": {
+                    "Badge": "Tavsiya etiladi",
+                    "Title": "PREMIUM",
+                    "Price": "$7,000",
+                    "Description": "Daromad va SEO uchun optimal. Biznesini o‘stirmoqchi bo'lganlar uchun."
+                },
+                "vip": {
+                    "Badge": "All-Inclusive",
+                    "Title": "VIP",
+                    "Price": "$10,000",
+                    "Description": "To‘liq biznes, marketing va AI. Bozorda lider bo‘lishni xohlaydiganlar uchun."
+                }
+            }
+        },
+        "vip_branding": {
+            "Badge": "TO'LIQ BRANDING",
+            "Title": "Professional Brending va AI",
+            "Subtitle": "Brend identikligi va sun'iy intellekt kuchi",
+            "Branding": {
+                "Title": "To'liq Branding Paketi",
+                "Items": [
+                    "Logo (Bir nechta variant)",
+                    "Ranglar palitrasi (Corporate Colors)",
+                    "Shriftlar (Typography)",
+                    "UI Dizayn uslubi",
+                    "Mini Brandbook"
+                ]
+            },
+            "AiBot": {
+                "Title": "AI Chatbot & Widget",
+                "Questions": [
+                    "Kvartiralar narxi qancha?",
+                    "Salom! 🔥 Kvartiralar $30,000 dan boshlanadi."
+                ],
+                "Features": [
+                    "24/7 Mijozlarga xizmat",
+                    "Savollarga avtomatik javob",
+                    "Ishchilarni saralash (HR)",
+                    "Resume yaratish yordamchisi",
+                    "Kompaniya haqida to'liq ma'lumot"
+                ]
+            }
+        },
+        "vip_marketing": {
+            "Badge": "MARKETING VA YORDAM",
+            "Title": "Marketing va Texnik Yordam",
+            "Subtitle": "Boshidan oxirigacha to'liq qo'llab-quvvatlash",
+            "Cards": {
+                "smm": {
+                    "Title": "SMM Start paketi",
+                    "Items": [
+                        "Instagram start kontent",
+                        "Telegram kanal boshlash",
+                        "Dastlabki postlar dizayni",
+                        "Bio va kontent rejasi"
+                    ]
+                },
+                "server": {
+                    "Title": "Server, Backup, Monitoring",
+                    "Items": [
+                        "1 yil davomida bepul server",
+                        "Daily Backup (kunlik nusxa)",
+                        "24/7 Xavfsizlik monitoringi",
+                        "Texnik nosozliklarni tuzatish"
+                    ]
+                },
+                "venture": {
+                    "Title": "Venture Advice",
+                    "Items": [
+                        "Monetizatsiya strategiyasi",
+                        "Scale (Kengaytirish) rejasi",
+                        "Investorlar uchun prezentatsiya",
+                        "Moliyaviy model"
+                    ]
+                }
+            },
+            "FooterBanner": "VIP — boshidan oxirigacha biz bilan"
+        },
+        "why_erica": {
+            "Badge": "BIZ HAQIMIZDA",
+            "Title": "Nima uchun ERICA?",
+            "Subtitle": "Biz bilan ishlashning afzalliklari",
+            "Cards": [
+                {
+                    "Title": "Sizning biznes maqsadlaringizni tushunadigan jamoa"
+                },
+                {
+                    "Title": "Tajribali mutaxassislar"
+                },
+                {
+                    "Title": "To'liq shaffof va ishonchli hamkorlik"
+                },
+                {
+                    "Title": "Muddatlarga amal qilish"
+                },
+                {
+                    "Title": "Uzoq muddatli hamkorlik"
+                }
+            ],
+            "Metrics": {
+                "Projects": "100+ muvaffaqiyatli loyihalar",
+                "Experience": "5+ yillik tajriba",
+                "Clients": "Mamnun mijozlar"
+            }
+        },
+        "start_package": {
+            "Badge": "Web-sayt",
+            "Title": "START",
+            "Price": "$4,000",
+            "Subtitle": "Tez ishga tushish uchun Web-sayt",
+            "Description": "START paketi — biznesni tez boshlamoqchi bo‘lganlar uchun. G‘oya bor, lekin bozorga tez chiqish kerak. Bu paketda biz eng kerakli funksiyalarni beramiz.",
+            "Features": {
+                "Title": "Asosiy sahifalar:",
+                "List": [
+                    "Bosh sahifa",
+                    "Biz haqimizda",
+                    "Xizmatlar yoki mahsulotlar",
+                    "Kontaktlar"
+                ]
+            },
+            "Highlights": [
+                "Zamonaviy, toza dizayn",
+                "Oddiy admin panel",
+                "Mobil va kompyuterga mos",
+                "Tez ishlaydigan sayt"
+            ],
+            "Advantages": {
+                "Title": "START nimasi bilan qulay?",
+                "List": [
+                    "Arzon va tez ishga tushadi",
+                    "Bozorni test qilish mumkin",
+                    "Minimal xarajat bilan natija"
+                ]
+            }
+        },
+        "start_package_admin": {
+            "Title": "START paketida admin imkoniyatlari",
+            "Subtitle": "Asosiy boshqaruv va monitoring vositalari",
+            "Metrics": {
+                "Ads": {
+                    "Label": "E'lonlar soni",
+                    "Value": "156",
+                    "Growth": "+12%"
+                },
+                "Users": {
+                    "Label": "Aktiv foydalanuvchilar",
+                    "Value": "2.4K",
+                    "Growth": "+0%"
+                }
+            },
+            "Panel": {
+                "Title": "Boshqaruv paneli",
+                "Features": [
+                    {
+                        "Title": "E'lonlarni boshqarish",
+                        "Icon": "Layout"
+                    },
+                    {
+                        "Title": "Asosiy nazorat paneli",
+                        "Icon": "Settings"
+                    }
+                ],
+                "ChartTitle": "Haftalik ko'rsatkich"
+            },
+            "Why": {
+                "Title": "Nima uchun START?",
+                "Pros": [
+                    "Minimal byudjet",
+                    "Tez ishga tushirish",
+                    "O'zgarib turish talab"
+                ],
+                "Cons": [
+                    "Katta marketing yo'q"
+                ],
+                "Note": "START — bu boshlash uchun, kengaytirish uchun emas"
+            },
+            "FooterButton": "START — bozorga tez chiqish uchun eng to'g'ri tanlov"
+        },
+        "premium_package": {
+            "Badge": "Tavsiya etiladi",
+            "Title": "PREMIUM",
+            "Price": "$7,000",
+            "Subtitle": "Daromad va SEO uchun optimal",
+            "Description": "PREMIUM — biznesini o‘stirmoqchi, internet orqali daromad olishni xohlaydiganlar uchun. START paketidagi hamma narsa + qo'shimcha imkoniyatlar.",
+            "Features": [
+                "Individual dizayn (brand asosida)",
+                "Kengaytirilgan admin panel",
+                "Mahsulotlar / xizmatlar katalogi",
+                "Yangiliklar va blog",
+                "SEO optimizatsiya (Google uchun)",
+                "Tezlik va xavfsizlik sozlamalari",
+                "Mijozlardan so‘rov olish formasi"
+            ],
+            "Advantages": {
+                "Title": "PREMIUM nimasi bilan kuchli?",
+                "List": [
+                    "Google’da yaxshi chiqadi",
+                    "Ko‘proq mijoz olib keladi",
+                    "Brend ishonchini oshiradi"
+                ]
+            },
+            "FooterNote": "Eng ko‘p tanlanadigan paket"
+        },
+        "vip_package": {
+            "Title": "VIP TARIF",
+            "Price": "$10,000",
+            "Subtitle": "To‘liq biznes, marketing va AI",
+            "Tag": "All-inclusive (1 Yil)",
+            "Description": "VIP — katta maqsadli, bozorda lider bo‘lishni xohlaydigan kompaniyalar uchun.",
+            "Features": {
+                "ecosystem": {
+                    "Title": "To‘liq biznes ekotizimi",
+                    "Items": [
+                        "Kuchli platforma",
+                        "Kengaytirilgan boshqaruv tizimi"
+                    ]
+                },
+                "marketing": {
+                    "Title": "Marketing va o‘sish",
+                    "Items": [
+                        "Marketing uchun tayyor struktura",
+                        "Lead yig‘ish tizimi",
+                        "Analytics va statistika"
+                    ]
+                },
+                "ai": {
+                    "Title": "AI imkoniyatlari",
+                    "Items": [
+                        "AI chat yordamchi",
+                        "Mijozlarga avtomatik javoblar",
+                        "24/7 ishlaydigan AI assistent"
+                    ]
+                },
+                "inclusive": {
+                    "Title": "1 yil hammasi kiritilgan",
+                    "Items": [
+                        "Server va hosting — 1 yil",
+                        "Domen — 1 yil",
+                        "Korporativ email — 1 yil",
+                        "Xavfsizlik va backup — 1 yil",
+                        "Texnik qo‘llab-quvvatlash — 1 yil"
+                    ]
+                }
+            },
+            "Advantages": {
+                "Title": "VIP nimasi bilan eng foydali?",
+                "List": [
+                    "Texnik muammolar yo‘q",
+                    "Marketing va savdo avtomatlashtiriladi",
+                    "AI yordamida vaqt tejaladi",
+                    "1 yil xotirjam ishlash"
+                ]
+            },
+            "FooterAccent": "Qo‘shimcha xarajatlar YO‘Q",
+            "Comparison": {
+                "Title": "Nega $10,000 foydali?",
+                "Subtitle": "Moliyaviy taqqoslash",
+                "Traditional": {
+                    "Title": "Bitta IT Mutaxassis",
+                    "Cost": "$15,000 / yil",
+                    "Points": [
+                        "Oylik: $700–800",
+                        "Tayyor platforma yo'q",
+                        "Dizayn xizmati yo'q",
+                        "Kasallik/Ta'til xavfi"
+                    ]
+                },
+                "Vip": {
+                    "Title": "VIP Ekotizim",
+                    "Cost": "$10,000 / yil",
+                    "Points": [
+                        "To'liq jamoa (Designer, Dev, DevOps)",
+                        "Tayyor Premium Platforma",
+                        "24/7 Monitoring",
+                        "100% Javobgarlik"
+                    ]
+                }
+            },
+            "Blocks": {
+                "Platform": {
+                    "Title": "1. Platforma",
+                    "Items": [
+                        "Zamonaviy Premium Dizayn",
+                        "Qulay Admin Panel",
+                        "Kontent boshqaruvi",
+                        "Kengaytirish imkoniyati"
+                    ]
+                },
+                "Services": {
+                    "Title": "2. Infratuzilma (1 Yil)",
+                    "Items": {
+                        "Server": {
+                            "Title": "Server",
+                            "Desc": "Tez va barqaror"
+                        },
+                        "Domain": {
+                            "Title": "Domen",
+                            "Desc": "Ro'yxatdan o'tkazish"
+                        },
+                        "Email": {
+                            "Title": "Email",
+                            "Desc": "info@company.uz"
+                        },
+                        "Security": {
+                            "Title": "Backup",
+                            "Desc": "Ma'lumotlar himoyasi"
+                        },
+                        "Support": {
+                            "Title": "Support",
+                            "Desc": "Texnik yordam"
+                        }
+                    }
+                },
+                "NoCosts": {
+                    "Title": "3. 1 Yil Xarajat Siz",
+                    "Subtitle": "Qo'shimcha to'lovlarsiz:",
+                    "Items": [
+                        "Server to'lovi: $0",
+                        "Domen to'lovi: $0",
+                        "Texnik xizmat: $0",
+                        "Kichik o'zgarishlar: $0",
+                        "Maslahatlar: $0"
+                    ]
+                }
+            },
+            "TargetAudience": "Katta maqsadli, vaqtini qadrlaydigan va bozorda lider bo'lishni xohlaydigan kompaniyalar uchun."
+        },
+        "solution": {
+            "Tag": "YECHIM",
+            "Title": "Erica taklif qiladigan yechim",
+            "Description": "Biz shunchaki sayt emas, biznesingizni rivojlantiradigan to‘liq ekotizim yaratamiz.",
+            "Link": "Batafsil ma'lumot",
+            "Footer": "Barchasi bir joyda",
+            "List": [
+                "Zamonaviy Dizayn",
+                "Tezkor ishlash tezligi",
+                "SEO optimizatsiya",
+                "Moslashuvchanlik (Mobile)",
+                "Xavfsizlik",
+                "Admin Panel"
+            ]
+        },
+        "next_steps": {
+            "Title": "Keyingi qadamlar",
+            "Steps": {
+                "1": {
+                    "Title": "Talablarni tasdiqlash",
+                    "Desc": "Loyiha ko'lami va vazifalarini aniqlashtirish"
+                },
+                "2": {
+                    "Title": "Shartnoma tuzish",
+                    "Desc": "Rasmiy kelishuv va hujjatlarni imzolash"
+                },
+                "3": {
+                    "Title": "Ishni boshlash",
+                    "Desc": "Loyiha ustida ishlashni start berish"
+                },
+                "4": {
+                    "Title": "Loyihani topshirish",
+                    "Desc": "Tayyor mahsulotni taqdim etish va o'rgatish"
+                }
+            },
+            "Footer": {
+                "Text": "ERICA — sizning ishonchli texnik hamkoringiz",
+                "Badge": "Hamkorlikni boshlash",
+                "Email": "anvardavronov@uventures.uz",
+                "Phone1": "+998 77 114 40 45",
+                "Phone2": "+998 33 797 40 00"
+            }
+        }
+    }
+}

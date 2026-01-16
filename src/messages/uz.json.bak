@@ -1,0 +1,214 @@
+{
+    "HomePage": {
+        "title": "BMB Holding — Raqamli Transformatsiya",
+        "hero": {
+            "Badge": "BMB Holding & ERICA IT",
+            "Title": "BMB Holding — Raqamli Transformatsiya",
+            "Subtitle": "Global bozor uchun Premium Ekotizim"
+        },
+        "introduction": {
+            "Badge": "MUAMMO VA YECHIM",
+            "Title": "Hozirgi holat vs Bizning yechim",
+            "Description": "Hozirgi kunda oddiy saytlar ishlamaydi. Ular mijozni zeriktiradi va ma'lumotlar tarqoq holda qoladi. Biz taklif qilayotgan yechim — bu yagona raqamli ofis. Bu yerda dizayn investorga ishonch beradi, tizim esa barcha ma'lumotlarni bir joyda xavfsiz saqlaydi.",
+            "Footer": {
+                "Professional": "Ma'lumotlar tarqoqligi",
+                "Reliable": "Yagona Ekotizim"
+            }
+        },
+        "solution": {
+            "Badge": "DIZAYN (PREMIUM UX/UI)",
+            "Title": "\"Normal\" Dizayn — Bu Status",
+            "Subtitle": "Premium Minimalizm",
+            "Description": "Saytga kirganda statik rasm emas, balki kompaniya qudratini ko‘rsatuvchi sifatli video kutib oladi. Eng muhimi — sayt telefonda xuddi mobil ilovadek qulay ishlaydi.",
+            "Visuals": {
+                "List": {
+                    "0": "Video Fon (Zavod va logistika)",
+                    "1": "3D Interaktiv Xarita (Eksport)",
+                    "2": "Mobile-First (Ilova kabi)"
+                }
+            },
+            "CardFooter": "Premium UX/UI Standartlari"
+        },
+        "capabilities": {
+            "Badge": "BOSHQARUV (ADMIN PANEL)",
+            "Title": "Biznesingiz kaftingizda",
+            "TitleHighlight": "monitoring",
+            "Footer": "Yagona Admin Panel • Oson boshqaruv",
+            "cards": {
+                "1": {
+                    "Title": "Yagona Panel",
+                    "Description": "Barcha saytlar bir joyda jamlangan"
+                },
+                "2": {
+                    "Title": "Oson Boshqaruv",
+                    "Description": "IT-mutaxassis shart emas, 1 daqiqada o'zgaradi"
+                },
+                "3": {
+                    "Title": "Statistika",
+                    "Description": "Sotuvlar va tashriflar monitoringi"
+                },
+                "4": {
+                    "Title": "Mijozlar Bazasi",
+                    "Description": "Barcha ma'lumotlar bitta oynada"
+                },
+                "5": {
+                    "Title": "Kontent",
+                    "Description": "Yangilik va narxlarni tezkor boshqarish"
+                },
+                "6": {
+                    "Title": "Integratsiya",
+                    "Description": "CRM va boshqa tizimlar bilan bog'liqlik"
+                }
+            }
+        },
+        "seo": {
+            "Title": "XAVFSIZLIK: Ma'lumotlar — Yangi Neft",
+            "SearchBarPlaceholder": "Loglar tarixi va monitoring...",
+            "ChartTitle": "Kiberhujumlardan himoya darajasi",
+            "Months": {
+                "Jan": "Yan",
+                "Feb": "Fev",
+                "Mar": "Mar",
+                "Apr": "Apr",
+                "May": "May",
+                "Jun": "Iyun",
+                "Jul": "Iyul"
+            },
+            "Cards": {
+                "1": "Log Tizimi (Kim, qachon, nima?)",
+                "2": "Daily Backup (Avtomatik nusxa)",
+                "3": "Himoyalangan serverlar",
+                "4": "Ma'lumotlar yo'qolishidan kafolat"
+            },
+            "FooterBadge": "100% Ma'lumotlar himoyasi"
+        },
+        "vip_package": {
+            "Title": "VIP TARIF",
+            "Price": "$10,000",
+            "Subtitle": "To'liq Biznes Ekotizimi",
+            "Tag": "All-inclusive (1 Yil)",
+            "Description": "VIP — bu shunchaki sayt emas, bu tayyor biznes tizimi. Biz infratuzilma, xavfsizlik va texnik muammolarni o'z zimmamizga olamiz. Siz faqat biznes bilan shug'ullanasiz.",
+            "Comparison": {
+                "Title": "Nega $10,000 foydali?",
+                "Subtitle": "Moliyaviy taqqoslash",
+                "Traditional": {
+                    "Title": "Bitta IT Mutaxassis",
+                    "Cost": "$15,000 / yil",
+                    "Points": [
+                        "Oylik: $700–800",
+                        "Tayyor platforma yo'q",
+                        "Dizayn xizmati yo'q",
+                        "Kasallik/Ta'til xavfi"
+                    ]
+                },
+                "Vip": {
+                    "Title": "VIP Ekotizim",
+                    "Cost": "$10,000 / yil",
+                    "Points": [
+                        "To'liq jamoa (Designer, Dev, DevOps)",
+                        "Tayyor Premium Platforma",
+                        "24/7 Monitoring",
+                        "100% Javobgarlik"
+                    ]
+                }
+            },
+            "Blocks": {
+                "Platform": {
+                    "Title": "1. Platforma",
+                    "Items": [
+                        "Zamonaviy Premium Dizayn",
+                        "Qulay Admin Panel",
+                        "Kontent boshqaruvi",
+                        "Kengaytirish imkoniyati"
+                    ]
+                },
+                "Services": {
+                    "Title": "2. Infratuzilma (1 Yil)",
+                    "Items": {
+                        "Server": {
+                            "Title": "Server",
+                            "Desc": "Tez va barqaror"
+                        },
+                        "Domain": {
+                            "Title": "Domen",
+                            "Desc": "Ro'yxatdan o'tkazish"
+                        },
+                        "Email": {
+                            "Title": "Email",
+                            "Desc": "info@company.uz"
+                        },
+                        "Security": {
+                            "Title": "Backup",
+                            "Desc": "Ma'lumotlar himoyasi"
+                        },
+                        "Support": {
+                            "Title": "Support",
+                            "Desc": "Texnik yordam"
+                        }
+                    }
+                },
+                "NoCosts": {
+                    "Title": "3. 1 Yil Xarajat Siz",
+                    "Subtitle": "Qo'shimcha to'lovlarsiz:",
+                    "Items": [
+                        "Server to'lovi: $0",
+                        "Domen to'lovi: $0",
+                        "Texnik xizmat: $0",
+                        "Kichik o'zgarishlar: $0",
+                        "Maslahatlar: $0"
+                    ]
+                }
+            },
+            "TargetAudience": "Katta maqsadli, vaqtini qadrlaydigan va bozorda lider bo'lishni xohlaydigan kompaniyalar uchun.",
+            "FooterAccent": "Bu xarajat emas — biznes barqarorligiga investitsiya."
+        },
+        "packages_summary": {
+            "Title": "PAKETLAR QISQACHA",
+            "Subtitle": "Loyihangiz uchun eng mos variantni tanlang",
+            "FooterNote": "Barcha paketlarda texnik yordam mavjud",
+            "cards": {
+                "start": {
+                    "Badge": "MVP",
+                    "Title": "START",
+                    "Price": "$4,000",
+                    "Description": "Tez start uchun MVP. Biznesni tez boshlamoqchi bo‘lganlar uchun."
+                },
+                "premium": {
+                    "Badge": "Tavsiya etiladi",
+                    "Title": "PREMIUM",
+                    "Price": "$7,000",
+                    "Description": "Daromad va SEO uchun optimal. Biznesini o‘stirmoqchi bo'lganlar uchun."
+                },
+                "vip": {
+                    "Badge": "All-Inclusive",
+                    "Title": "VIP",
+                    "Price": "$10,000",
+                    "Description": "To‘liq biznes, marketing va AI. Bozorda lider bo‘lishni xohlaydiganlar uchun."
+                }
+            }
+        },
+        "next_steps": {
+            "Title": "Xulosa",
+            "Subtitle": "Biz BMB Holdingga shunchaki chiroyli rasm emas, balki ishlaydigan, xavfsiz va daromad keltiradigan vosita yaratib beramiz. Biz ishlashga tayyormiz.",
+            "Steps": {
+                "1": {
+                    "Title": "Shartnoma imzolash",
+                    "Desc": "Rasmiy hamkorlikni boshlash"
+                },
+                "2": {
+                    "Title": "Texnik topshiriq",
+                    "Desc": "Batafsil talablarni tasdiqlash"
+                },
+                "3": {
+                    "Title": "Ishni boshlash",
+                    "Desc": "Loyiha ustida ishlash starti"
+                }
+            },
+            "Contact": {
+                "Badge": "Biz tayyormiz. Start beramizmi?",
+                "Phone1": "BMB Holding",
+                "Phone2": "Raqamli Transformatsiya"
+            }
+        }
+    }
+}
