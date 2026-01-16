@@ -14,6 +14,7 @@ import { PackagesSummarySlide } from "./PackagesSummarySlide";
 import { StartPackageSlide } from "./StartPackageSlide";
 import { StartPackageAdminSlide } from "./StartPackageAdminSlide";
 import { PremiumPackageSlide } from "./PremiumPackageSlide";
+import { JobxSlide } from "./JobxSlide";
 import { VipPackageSlide } from "./VipPackageSlide";
 import { VipBrandingAiSlide } from "./VipBrandingAiSlide";
 import { VipMarketingSlide } from "./VipMarketingSlide";
@@ -35,7 +36,9 @@ export const SlidesContainer = () => {
         PackagesSummarySlide,
         StartPackageSlide,
         StartPackageAdminSlide,
+        StartPackageAdminSlide,
         PremiumPackageSlide,
+        JobxSlide,
         VipPackageSlide,
         VipBrandingAiSlide,
         VipMarketingSlide,

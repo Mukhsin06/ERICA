@@ -324,6 +324,62 @@
             },
             "FooterNote": "Eng ko‘p tanlanadigan paket"
         },
+        "jobx": {
+            "Badge": "AI HR PLATFORMA",
+            "Title": "AI bilan kadr tanlashni soddalashtiramiz",
+            "Subtitle": "JOB X — ishga qabul qilish jarayonini to'liq avtomatlashtirish",
+            "Description": "Rezyume yaratishdan tortib nomzodlarni baholashgacha — hammasi bitta platformada.",
+            "Features": {
+                "Title": "Asosiy imkoniyatlar",
+                "List": [
+                    {
+                        "Title": "AI Rezyume yaratuvchi",
+                        "Desc": "Nomzodlar AI chat orqali savollarga javob berishadi va tizim avtomatik ravishda professional rezyume yaratadi. HR vaqtini tejaydi.",
+                        "Button": "Demoni ko'rish"
+                    },
+                    {
+                        "Title": "Veb-sayt vidjeti",
+                        "Desc": "Noyob tokeningizdan foydalanib, bir qator kod orqali AI ishga qabul qilish vidjetimizni kompaniyangiz saytiga joylashtiring.",
+                        "Button": "Vidjetni sozlash"
+                    },
+                    {
+                        "Title": "AI Video intervyu",
+                        "Desc": "Javoblar va yuz ifodalarini real vaqtda tahlil qiluvchi kamera orqali AI yordamida yuzma-yuz intervyular o'tkazing.",
+                        "Button": "AI intervyuni sinash"
+                    },
+                    {
+                        "Title": "To'g'ridan-to'g'ri test havolalari",
+                        "Desc": "Nomzodlarga to'g'ridan-to'g'ri baholash havolalarini yuboring. Pochta yoki messenjerlar uchun qulay.",
+                        "Button": "Havola yaratish"
+                    },
+                    {
+                        "Title": "Vidjetni moslashtirish",
+                        "Desc": "Vidjet ko'rinishini, ranglar, shriftlar va AI xarakterini brendingizga mos ravishda to'liq sozlang.",
+                        "Button": "Hozir sozlash"
+                    },
+                    {
+                        "Title": "Admin panel tokenlari",
+                        "Desc": "Har bir kompaniya noyob token oladi va bu orqali vidjetni saytga integratsiya qiladi.",
+                        "Button": "Admin panelga o'tish"
+                    },
+                    {
+                        "Title": "AI Ovozli testlash",
+                        "Desc": "AI ovozli suhbatlari orqali nomzodlarning so'zlashuv qobiliyatini va til bilish darajasini baholang.",
+                        "Button": "Ovozli AIni sinash"
+                    },
+                    {
+                        "Title": "Vidjet ichidagi rezyume",
+                        "Desc": "Nomzodlar saytingizdan chiqmasdan turib, o'zlarining professional rezyumelarini yaratishlari va topshirishlari mumkin.",
+                        "Button": "Vidjetni ko'rish"
+                    },
+                    {
+                        "Title": "Foydalanuvchi boshqaruv markazi",
+                        "Desc": "Nomzodlar uchun maxsus dashboard: arizalar holatini kuzatish, intervyularni boshqarish va profillarni yangilash.",
+                        "Button": "Markazni ochish"
+                    }
+                ]
+            }
+        },
         "vip_package": {
             "Title": "VIP TARIF",
             "Price": "$3,000",
